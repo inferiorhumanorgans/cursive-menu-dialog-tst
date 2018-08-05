@@ -1,0 +1,7 @@
+[package]
+name = "cursive-menu-dialog-tst"
+version = "0.1.0"
+authors = ["Alex Zepeda <alex@inferiorhumanorgans.com>"]
+
+[dependencies]
+cursive = { git = "https://github.com/gyscos/Cursive" }
